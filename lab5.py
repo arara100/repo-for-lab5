@@ -1,3 +1,6 @@
+"""
+lab5
+"""
 class Horse:
     """
     A simple model of a horse
